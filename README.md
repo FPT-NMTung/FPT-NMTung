@@ -4,7 +4,11 @@
 
 ### About me 🙋‍♂️
 
-I'm a **Software Engineer**. I always try to learn new things and use failure as a steppingstone to success. In future, I want to improve my skills and become a **Fullstack Developer**. Focus on **javascript** and typescript (future), also I know a little bit about C# and Java.
+I'm a **Software Engineer**. I love to learn new things and I'm always curious about new things. In future, I want to improve my skills and become a **Fullstack Developer**. Focus on **javascript** and typescript (future), also I know a little bit about C# and Java.
+
+My hobbies are playing games, listening to music and coding. I always listen to music when I'm coding and I love to play games with my friends.
+
+I'm try to be a good leader and a good teammate. I always try to help my teammates and learn from them. I'm a hard-working person and try to do my best. 
 
 <div style="clear: both"></div>
 
@@ -16,6 +20,8 @@ I have some social media accounts, you can contact me through them:
 - <img src="https://img.icons8.com/fluency/20/null/apple-mail.png"/> [study@nmtung.dev](mailto:study@nmtung.dev) or [nmtung.study@gmail.com](mailto:nmtung.study@gmail.com)
 - <img src="https://img.icons8.com/fluency/20/null/telegram-app.png"/> [nmtung](https://t.me/nmtung)
 - <img src="https://img.icons8.com/fluency/20/null/skype.png"/> [nmtungofficial](skype:live:nmtungofficial)
+
+and my CV here: [Nguyen-Manh-Tung_CV.pdf](./pdfs/Nguyen-Manh-Tung_CV.pdf)
 
 ### My projects 👨‍💻
 
