@@ -1,10 +1,12 @@
-<img align='left' src="./images/Tng_green_illustrations_technology_programmer_cute_4k_white_bac_11a5aedb-e558-441f-a5d6-337c5f46a9f6.png" style="border-radius: 1000px; margin-right: 30px; border: 3px lightgreen solid" width="155">
-
 ## Hi, i'm **Nguyen Manh Tung** ✨
+
+<img align='left' src="./images/Tng_green_illustrations_technology_programmer_cute_4k_white_bac_11a5aedb-e558-441f-a5d6-337c5f46a9f6.png" style="border-radius: 1000px; margin-right: 30px; border: 3px lightgreen solid" width="155">
 
 ### About me 🙋‍♂️
 
 I'm a **Software Engineer**. I always try to learn new things and use failure as a steppingstone to success. In future, I want to improve my skills and become a **Fullstack Developer**. Focus on **javascript** and typescript (future), also I know a little bit about C# and Java.
+
+<div style="clear: both"></div>
 
 ### How to reach me 📫
 
