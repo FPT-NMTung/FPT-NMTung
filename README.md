@@ -1,26 +1,28 @@
-Hi, i'm **Nguyen Manh Tung** ✨
+<img align='left' src="./images/Tng_green_illustrations_technology_programmer_cute_4k_white_bac_11a5aedb-e558-441f-a5d6-337c5f46a9f6.png" style="border-radius: 1000px; margin-right: 30px; border: 3px lightgreen solid" width="155">
 
-Contact me:
- - Facebook: [Nguyen Manh Tung](https://www.facebook.com/NMTung.Socialnetwork/)
- - Email: study@nmtung.dev
+## Hi, i'm **Nguyen Manh Tung** ✨
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-</div>
+### About me 🙋‍♂️
 
-###
+I'm a **Software Engineer**. I always try to learn new things and use failure as a steppingstone to success. In future, I want to improve my skills and become a **Fullstack Developer**. Focus on **javascript** and typescript (future), also I know a little bit about C# and Java.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=FPT-NMTung" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=FPT-NMTung" height="150" alt="languages graph"  />
-</div>
+### How to reach me 📫
 
-###
+I have some social media accounts, you can contact me through them:
 
+- <img src="https://img.icons8.com/fluency/20/null/facebook-new.png"/> [facebook](https://www.facebook.com/NMTung.Socialnetwork/)
+- <img src="https://img.icons8.com/fluency/20/null/apple-mail.png"/> [study@nmtung.dev](mailto:study@nmtung.dev) or [nmtung.study@gmail.com](mailto:nmtung.study@gmail.com)
+- <img src="https://img.icons8.com/fluency/20/null/telegram-app.png"/> [nmtung](https://t.me/nmtung)
+- <img src="https://img.icons8.com/fluency/20/null/skype.png"/> [nmtungofficial](skype:live:nmtungofficial)
+
+### My projects 👨‍💻
+
+- **[Academic Management System](https://github.com/FPT-NMTung/academic-management-system)**: A web application for managing academic activities of a university. This project is built with **ReactJS** and **.Net Core**. I'm the **Team Leader** and **FullStack Developer**.
+- **[Quizlet Learn](https://github.com/AdonisGM/quizlet-learn)**: Like Quizlet, but it's a web application for learning and free. This project is built with **ReactJS** and **NodeJS**.
+
+### My skills 🧑‍💻
+
+- **Languages:** <img src="https://img.icons8.com/color/20/null/javascript.png"/> Javascript, <img src="https://img.icons8.com/color/20/null/typescript.png"/> Typescript, <img src="https://img.icons8.com/color/20/null/c-sharp-logo.png"/> C#
+- **Frameworks:** <img src="https://img.icons8.com/color/20/null/react-native.png"/> React, <img src="https://img.icons8.com/color/20/null/nodejs.png"/> Nodejs
+- **Databases:** <img src="https://img.icons8.com/color/20/null/mongodb.png"/> MongoDB, <img src="https://img.icons8.com/color/20/null/microsoft-sql-server.png"/> SQL Server
+- **Others:** <img src="https://img.icons8.com/color/20/null/git.png"/> Git, <img src="https://img.icons8.com/color/20/null/github.png"/> Github, <img src="https://img.icons8.com/color/20/null/visual-studio-code-2019.png"/> VSCode
