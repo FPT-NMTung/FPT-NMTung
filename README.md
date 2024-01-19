@@ -32,5 +32,5 @@ and my CV here: [Nguyen-Manh-Tung_CV.pdf](./pdfs/Nguyen-Manh-Tung_CV.pdf)
 
 - **Languages:** <img src="https://img.icons8.com/color/20/null/javascript.png"/> Javascript, <img src="https://img.icons8.com/color/20/null/typescript.png"/> Typescript, <img src="https://img.icons8.com/color/20/null/c-sharp-logo.png"/> C#
 - **Frameworks:** <img src="https://img.icons8.com/color/20/null/react-native.png"/> React, <img src="https://img.icons8.com/color/20/null/nodejs.png"/> Nodejs
-- **Databases:** <img src="https://img.icons8.com/color/20/null/mongodb.png"/> MongoDB, <img src="https://img.icons8.com/color/20/null/microsoft-sql-server.png"/> SQL Server
+- **Databases:** <img src="https://icons8.com/icon/8ljTDYUEydbJ/oracle-pl-sql"/>Oracle, <img src="https://img.icons8.com/color/20/null/mongodb.png"/> MongoDB, <img src="https://img.icons8.com/color/20/null/microsoft-sql-server.png"/> SQL Server
 - **Others:** <img src="https://img.icons8.com/color/20/null/git.png"/> Git, <img src="https://img.icons8.com/color/20/null/github.png"/> Github, <img src="https://img.icons8.com/color/20/null/visual-studio-code-2019.png"/> VSCode
