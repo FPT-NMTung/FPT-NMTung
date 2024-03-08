@@ -6,8 +6,6 @@
 
 I'm a **Software Engineer**. I love to learn new things and I'm always curious about new things. In future, I want to improve my skills and become a **Fullstack Developer**. Focus on **javascript** and typescript (future), also I know a little bit about C# and Java.
 
-My hobbies are playing games, listening to music and coding. I always listen to music when I'm coding and I love to play games with my friends.
-
 I'm try to be a good leader and a good teammate. I always try to help my teammates and learn from them. I'm a hard-working person and try to do my best. 
 
 <div style="clear: both"></div>
